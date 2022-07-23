@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Vladislav Shell
+I'm a Web Developer.
+
+# Skills
+
 
 <!--
 **FreeeeZ/FreeeeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
