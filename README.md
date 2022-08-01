@@ -45,6 +45,9 @@ I'm a Web Developer.
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## My codewars rank
+![image](https://www.codewars.com/users/FreeeeZ/badges/large)
+
 <!--
 **FreeeeZ/FreeeeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
