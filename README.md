@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Vladislav Shell
-I'm a Web Developer.
+# 👋 Hi there, I'm FreeeeZ
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=500&color=1DA1F2&width=435&lines=Web+Developer;Team+Lead;Good+person)](https://git.io/typing-svg)
 
-# Skills && Technologies
+## 🛠️ **Tech stack/Skills**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -45,20 +45,6 @@ I'm a Web Developer.
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## My codewars rank
-![image](https://www.codewars.com/users/FreeeeZ/badges/large)
-
-<!--
-**FreeeeZ/FreeeeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 **GitHub Stats**
+[![FreeeeZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeeeZ&show_icons=true&theme=radical)](https://github.com/FreeeeZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeeeZ&layout=compact&theme=radical)](https://github.com/FreeeeZ)
