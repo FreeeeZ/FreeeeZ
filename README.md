@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm FreeeeZ
+## 👋 Hi there, I'm FreeeeZ
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=500&color=1DA1F2&width=435&lines=Web+Developer;Team+Lead;Good+person)](https://git.io/typing-svg)
 
 ## 🛠️ **Tech stack/Skills**
